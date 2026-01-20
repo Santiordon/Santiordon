@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santiago Ordonez Merizalde</h1>
 <h3 align="center">I focus on Web Development and Game Design.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santiordon&label=Profile%20views&color=0e75b6&style=flat" alt="santiordon" /> </p>
-
 - 🔭 I’m currently working on [Finishline (NER Club)](https://github.com/Northeastern-Electric-Racing/FinishLine)
 
 - 🌱 I’m currently learning **Databases and Algorithms**
