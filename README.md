@@ -8,15 +8,9 @@
 - 💬 Ask me about **React, Roblox Luau**
 - ⚡ Fun fact: **I am a chill guy**
 
-<h3>📫 How to reach me</h3>
-<p>
-  <a href="mailto:ordonezmerizalde.s@northeastern.edu">
-    <img src="https://img.shields.io/badge/Northeastern-ordonezmerizalde.s%40northeastern.edu-CC0000?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="mailto:santiordon@yahoo.com">
-    <img src="https://img.shields.io/badge/Personal-santiordon%40yahoo.com-6001D2?style=for-the-badge&logo=yahoo" />
-  </a>
-</p>
+- 📫 How to reach me:
+  - 🎓 **ordonezmerizalde.s@northeastern.edu** (Primary)
+  - 📧 **santiordon@yahoo.com** (Secondary)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
