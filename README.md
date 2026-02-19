@@ -8,8 +8,9 @@
 - 💬 Ask me about **react, roblox luau**
 
 - 📫 How to reach me:
-  - 🎓 **ordonezmerizalde.s@northeastern.edu** (Primary)
-  - 📧 **santiordon@yahoo.com** (Secondary)
+
+[![Northeastern](https://img.shields.io/badge/Northeastern-ordonezmerizalde.s%40northeastern.edu-CC0000?style=for-the-badge&logo=gmail)](mailto:ordonezmerizalde.s@northeastern.edu)
+[![Personal](https://img.shields.io/badge/Personal-santiordon%40yahoo.com-6001D2?style=for-the-badge&logo=yahoo)](mailto:santiordon@yahoo.com)
 
 - ⚡ Fun fact **I am a chill guy**
 
