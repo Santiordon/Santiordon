@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santiago Ordonez Merizalde</h1>
-<h3 align="center">I focus on Web Development and Game Design.</h3>
+<h3 align="center">I am a Web Developer, Game Developer and Software Engineer.</h3>
 
 ---
 
